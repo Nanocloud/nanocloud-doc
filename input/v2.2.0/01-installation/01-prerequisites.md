@@ -48,7 +48,7 @@ Down below are listed the prerequisites for a successful installation of Nanoclo
 {
   "codes": [
     {
-      "code": "sudo usermod -aG docker <username>",
+      "code": "sudo usermod -aG docker $USER",
       "language": "shell"
     }
   ]
